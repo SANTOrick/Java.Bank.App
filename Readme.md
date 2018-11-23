@@ -26,9 +26,8 @@ I want account to be protected against overdrafting
 
 How to use
 ===========
-From the terminal  
-`git clone https://github.com/SANTOrick/Bank.app.git`  
-`irb`  
-`require './bankapp.rb'`<br>
-<img src="./example.png" width="400"><br>
-To exit irb type `exit` in the terminal.
+Download the files with Eclipse. 
+Go to File > Import > Git > Project from Git.
+Select Clone URI, then in the URI: field paste ```https://github.com/SANTOrick/Java.Bank.App``` and save it in your desired folder.
+Run the body.java
+<img src="https://preview.ibb.co/bG6fzq/BankJava.jpg" alt="BankJava" border="0">
