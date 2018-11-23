@@ -30,4 +30,4 @@ Download the files with Eclipse.
 Go to File > Import > Git > Project from Git.  
 Select Clone URI, then in the URI: field paste ```https://github.com/SANTOrick/Java.Bank.App``` and save it in your desired folder.  
 Run the body.java  
-<img src="https://preview.ibb.co/bG6fzq/BankJava.jpg" alt="BankJava" border="0">
+<img src="https://image.ibb.co/kgD7CA/BankJava.jpg" alt="BankJava" border="0">
